@@ -1,3 +1,0 @@
-ovo je test.
-ovo je novi text kojeg cemo dodati
-u drugom commitu.
