@@ -28,6 +28,11 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programiranje\Java_University_GUI_Project\src\hr\java\vjezbe\baza" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hr.java.vjezbe.glavna.Main" />
@@ -60,7 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580856522692</updated>
     </task>
+    <task id="LOCAL-00001" summary="Edit the README.md file and add database to baza folder.">
+      <created>1582393305932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582393305932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edit the README.md file and add database to baza folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit the README.md file and add database to baza folder." />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="359" key="#Project_Structure" timestamp="1580856906688">
@@ -83,6 +100,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1009" y="579" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400@0.0.2560.1400" timestamp="1580937728509" />
+    <state x="934" y="294" key="CommitChangelistDialog2" timestamp="1582393305160">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="934" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582393305160" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1580936543853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -107,10 +128,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1303" y="437" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1580936605888" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1582393268152">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1582393309750">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1582393268152" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1582393309750" />
     <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1580937872882">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
